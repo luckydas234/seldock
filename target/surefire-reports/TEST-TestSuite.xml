@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="21.334" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="18.766" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="13"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/sulagnajee/eclipse-workspace/Example/target/surefire/surefirebooter184279961932293060.jar /Users/sulagnajee/eclipse-workspace/Example/target/surefire 2019-12-04T21-23-59_605-jvmRun1 surefire13752714072097837316tmp surefire_01399392342925843172tmp"/>
+    <property name="sun.java.command" value="/Users/sulagnajee/eclipse-workspace/Example/target/surefire/surefirebooter2023296776071574185.jar /Users/sulagnajee/eclipse-workspace/Example/target/surefire 2019-12-05T21-28-25_300-jvmRun1 surefire5379737363975836283tmp surefire_012043608729867616738tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/sulagnajee/eclipse-workspace/Example/target/test-classes:/Users/sulagnajee/eclipse-workspace/Example/target/classes:/Users/sulagnajee/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/sulagnajee/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/sulagnajee/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/sulagnajee/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/sulagnajee/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/sulagnajee/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sulagnajee/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/sulagnajee/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/sulagnajee/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/sulagnajee/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/sulagnajee/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/sulagnajee/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/sulagnajee/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/sulagnajee/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/sulagnajee/eclipse-workspace/Example/target/surefire/surefirebooter184279961932293060.jar"/>
+    <property name="surefire.real.class.path" value="/Users/sulagnajee/eclipse-workspace/Example/target/surefire/surefirebooter2023296776071574185.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="13.0.1+9"/>
@@ -53,6 +53,6 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="57.0"/>
   </properties>
-  <testcase name="testApp" classname="MACSEL.Example.ChromeDemo" time="12.493"/>
-  <testcase name="testApp" classname="MACSEL.Example.FFDemo" time="20.643"/>
+  <testcase name="testApp" classname="MACSEL.Example.ChromeDemo" time="13.313"/>
+  <testcase name="testApp" classname="MACSEL.Example.FFDemo" time="18.192"/>
 </testsuite>

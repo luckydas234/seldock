@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-04T15:54:01Z" name="Suite" finished-at="2019-12-04T15:54:21Z" duration-ms="20687">
+  <suite started-at="2019-12-05T15:58:26Z" name="Suite" finished-at="2019-12-05T15:58:44Z" duration-ms="18238">
     <groups>
     </groups>
-    <test started-at="2019-12-04T15:54:01Z" name="Test1" finished-at="2019-12-04T15:54:13Z" duration-ms="12536">
+    <test started-at="2019-12-05T15:58:26Z" name="Test1" finished-at="2019-12-05T15:58:39Z" duration-ms="13357">
       <class name="MACSEL.Example.ChromeDemo">
-        <test-method signature="testApp()[pri:0, instance:MACSEL.Example.ChromeDemo@35a50a4c]" started-at="2019-12-04T15:54:01Z" name="testApp" finished-at="2019-12-04T15:54:13Z" duration-ms="12491" status="PASS">
+        <test-method signature="testApp()[pri:0, instance:MACSEL.Example.ChromeDemo@35a50a4c]" started-at="2019-12-05T15:58:26Z" name="testApp" finished-at="2019-12-05T15:58:39Z" duration-ms="13310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testApp -->
       </class> <!-- MACSEL.Example.ChromeDemo -->
     </test> <!-- Test1 -->
-    <test started-at="2019-12-04T15:54:01Z" name="Test2" finished-at="2019-12-04T15:54:21Z" duration-ms="20687">
+    <test started-at="2019-12-05T15:58:26Z" name="Test2" finished-at="2019-12-05T15:58:44Z" duration-ms="18238">
       <class name="MACSEL.Example.FFDemo">
-        <test-method signature="testApp()[pri:0, instance:MACSEL.Example.FFDemo@1e4a7dd4]" started-at="2019-12-04T15:54:01Z" name="testApp" finished-at="2019-12-04T15:54:21Z" duration-ms="20645" status="PASS">
+        <test-method signature="testApp()[pri:0, instance:MACSEL.Example.FFDemo@1e4a7dd4]" started-at="2019-12-05T15:58:26Z" name="testApp" finished-at="2019-12-05T15:58:44Z" duration-ms="18194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testApp -->
