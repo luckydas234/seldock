@@ -24,7 +24,7 @@ public class FFDemo
 		DesiredCapabilities cap=new DesiredCapabilities();
 		
 		cap.setBrowserName(BrowserType.FIREFOX);
-		WebDriver driver=new RemoteWebDriver(new URL("http://localhost:4545/wd/hub"),cap);
+		WebDriver driver=new RemoteWebDriver(new URL("http://192.168.1.10:4545/wd/hub"),cap);
 		driver.get("http://www.google.com");
 		driver.findElement(By.name("q")).sendKeys("LKY");
 		Thread.sleep(5000);
