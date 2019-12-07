@@ -8,7 +8,7 @@ stage('Compile-package')
 {
  //get maven home
  def mvnHome= tool name: 'globalmaven', type: 'maven'
- sh "$(mvnHome)/bin/mvn package"
+  sh "${mvnHome}/bin/mvn package"
 }
 
 }
