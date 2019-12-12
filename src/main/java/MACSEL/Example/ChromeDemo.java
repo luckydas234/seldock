@@ -19,7 +19,7 @@ public class ChromeDemo
 		DesiredCapabilities cap=new DesiredCapabilities();
 		
 		cap.setBrowserName(BrowserType.CHROME);
-		WebDriver driver=new RemoteWebDriver(new URL("http://192.168.1.10:4545/wd/hub"),cap);
+		WebDriver driver=new RemoteWebDriver(new URL("http://192.168.1.9:4545/wd/hub"),cap);
 		driver.get("http://www.google.com");
 		driver.findElement(By.name("q")).sendKeys("LKY");
 		Thread.sleep(5000);
